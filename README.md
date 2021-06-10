@@ -1,6 +1,7 @@
-### Hi there, I'm Shankha 👋
+### Hi there, I'm Shankha <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<img align='right' src="https://i.imgur.com/NMwCkBq.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="230">
+
 
 I'm a 3rd year Btech college student, currently focussing to improve my knowledge and learn new skills in Coding 💻. 
    
