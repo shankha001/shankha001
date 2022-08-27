@@ -2,8 +2,6 @@
 
 ### About Me
 
-<img src="https://avatars.githubusercontent.com/u/59788600?s=400&u=57e6897e8f46f22a4e42fd2f2cb025a8294fcb2f&v=4"  width ="150" height="auto" align="right" />
-
 - 💼 Software Engineer at Optum, UHG
 - 🎓 B.Tech in Computer Science & Engineering
 - ⚡ Exploring new techologies
